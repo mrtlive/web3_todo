@@ -1,6 +1,5 @@
 # web3_todo
 
-* [![React][React.js]][React-url]
 
 Web 3 final case for paribu hub, todo dApp written in React and Solidity.
 
