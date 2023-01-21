@@ -6,8 +6,6 @@ Web 3 final case for paribu hub, todo dApp written in React and Solidity.
 used Alchemy and goerli test network for this project.
 
 
-
-
 ### Installation
 
 
@@ -33,3 +31,10 @@ used Alchemy and goerli test network for this project.
 techs
 
 - Hardhat, ethers, chai for testing, dotenv, react, TailwindCSS
+
+some screenshots
+
+![Screenshot 2023-01-21 at 21 15 14](https://user-images.githubusercontent.com/23610345/213881199-ac4b33a5-d4f5-4df6-999f-fb6e89ae37a9.png)
+
+![Screenshot 2023-01-21 at 21 15 17](https://user-images.githubusercontent.com/23610345/213881202-5f0ed3b5-940e-4b04-8414-fe4d4497b585.png)
+
